@@ -28,17 +28,20 @@
 ИНСТРУМЕНТЫ
 
 Для сбора данных:
+
 •	youtube_transcript_api
 •	googleapiclient.discovery
 •	pandas
 
 Для обнаружения брендов:
+
 •	nltk (word_tokenize + stopwords)
 •	pymorphy3
 •	matplotlib
 •	pandas
 
 Для анализа и визуализации:
+
 •	pandas
 •	matplotlib
 •	wordcloud
